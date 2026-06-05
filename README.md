@@ -1,16 +1,29 @@
 ## Hi there 👋
+# Hi, I'm Preetam Panda 👋
 
-<!--
-**preetamP06/preetamP06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- MCA Graduate
+- Aspiring Java Developer
+- Learning Spring Boot and Web Development
+- Passionate about coding and problem-solving
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Spring Boot
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 📂 Projects
+- Prime Number Checker
+- Student Management System
+- Portfolio Website
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/preetam-panda-9aa657303/
+- Email: preetampanda90@gmail.com
