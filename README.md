@@ -35,4 +35,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=preetamP06)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Learner;Open+to+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Java+Developer;Spring+Boot+Learner;Open+for+Opportunities)](https://git.io/typing-svg)
