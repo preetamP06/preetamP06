@@ -26,4 +26,8 @@
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/preetam-panda-9aa657303/
 - Email: preetampanda90@gmail.com
+## 📊 GitHub Stats
 
+![Preetam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetamP06&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preetamP06&layout=compact)
